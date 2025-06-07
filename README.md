@@ -1,54 +1,29 @@
-🔧 Features
-Compact 4-key layout
+# Morseboard
 
-Pre-programmed to send:
+My hackpad keyboard is a Macropad to mimic the Arrow keys to be like a controller for keyboard games
 
-↑ Up Arrow
+## Features
+- Can be used as arrows on Keyboard
+- Mini Keyboard like design to make it seem like a small keyboard
 
-↓ Down Arrow
+## Schematics
+![image]([https://github.com/user-attachments/assets/3f3e6264-1c38-4d00-b877-8a2389f6636f](https://github.com/titan00000001/Hackpad/blob/main/assets/Schematics.png))
 
-← Left Arrow
 
-→ Right Arrow
+## PCB
+![image]([https://github.com/user-attachments/assets/a1f1898f-5f43-4684-b375-9ace268cc1d4](https://github.com/titan00000001/Hackpad/blob/main/assets/PCB.png))
 
-USB plug-and-play
+## Assembly
+![image](https://github.com/titan00000001/Hackpad/blob/main/assets/cad.png)
 
-Compatible with All OS
+## BOM
 
-🎯 Use Cases
-Navigating spreadsheets or documents
+| Qty | Part Name               |
+|-----|-------------------------|
+| 4   | Switches                |
+| 4   | Keycaps                 |
+| 2   | LEDs                    |
+| 1   | Seeed XIAO RP2040       |
+| 1   | Case (3d-printed)       |
+| 1   | PCB                     |
 
-Controlling presentations
-
-Gaming (as a D-pad or movement control)
-
-Accessibility input device
-
-🛠️ Setup
-No additional software required if pre-flashed.
-
-If using QMK / VIA
-Clone or download this repo.
-
-Flash the firmware using Aurdino IDE.
-
-Test the keys:
-
-Port on Top
-
-Top: Up
-
-Bottom: Down
-
-Left: Left
-
-Right: Right
-
-🔌 Hardware
-Microcontroller: XIAO-RP2040-DIP
-
-4 mechanical switches
-
-USB-C connection
-
-3d Printable Case if Needed
