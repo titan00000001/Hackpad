@@ -7,11 +7,11 @@ My hackpad keyboard is a Macropad to mimic the Arrow keys to be like a controlle
 - Mini Keyboard like design to make it seem like a small keyboard
 
 ## Schematics
-![image](https://github.com/user-attachments/assets/3f3e6264-1c38-4d00-b877-8a2389f6636f](https://github.com/titan00000001/Hackpad/blob/main/assets/Schematics.png)
+![image](https://github.com/titan00000001/Hackpad/blob/main/assets/Schematics.png)
 
 
 ## PCB
-![image](https://github.com/user-attachments/assets/a1f1898f-5f43-4684-b375-9ace268cc1d4](https://github.com/titan00000001/Hackpad/blob/main/assets/PCB.png)
+![image](https://github.com/titan00000001/Hackpad/blob/main/assets/PCB.png)
 
 ## Assembly
 ![image](https://github.com/titan00000001/Hackpad/blob/main/assets/cad.png)
