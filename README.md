@@ -1,4 +1,4 @@
-# Morseboard
+# Arrowpad
 
 My hackpad keyboard is a Macropad to mimic the Arrow keys to be like a controller for keyboard games
 
